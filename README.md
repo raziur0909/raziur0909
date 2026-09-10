@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raziur Rehman
+# 👋 Hi, I'm Khan Raziur Rehman
 
 I'm a passionate **AI/ML and software developer** who enjoys turning ideas into real, useful applications.
 
