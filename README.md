@@ -15,7 +15,7 @@ An AI-powered chatbot that understands user preferences and recommends smartphon
 It uses **Python, Streamlit, NLP, NLTK, TF-IDF, and Machine Learning techniques** to understand user requirements and generate relevant recommendations.
 
 🌐 **Try it live:**
-https://ai-mobile-recommendation-chatbot-fcg7rtevnebrbn95ypwmjh.streamlit.app/
+https://ai-mobile-assistant.streamlit.app/
 
 ### 💼 KRIVO — Beyond Interviews
 
